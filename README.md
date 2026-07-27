@@ -72,3 +72,6 @@ python task_cli.py list in-progress
 ```bash
 python task_cli.py list done
 ```
+
+
+project url: https://github.com/Mansvi30/tasktrackercli
