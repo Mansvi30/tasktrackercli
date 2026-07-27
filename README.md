@@ -74,4 +74,4 @@ python task_cli.py list done
 ```
 
 
-project url: https://github.com/Mansvi30/tasktrackercli
+project url:  https://roadmap.sh/projects/task-tracker
