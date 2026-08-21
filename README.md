@@ -73,5 +73,3 @@ python task_cli.py list in-progress
 python task_cli.py list done
 ```
 
-
-project url:  https://roadmap.sh/projects/task-tracker
